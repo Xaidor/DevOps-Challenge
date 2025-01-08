@@ -15,7 +15,7 @@ The application is designed to fetch real-time weather data from the OpenWeather
 
 <h2 align="center">More</h2>
 <p> 
-    For a step-by-step walkthrough of this project, check out my blog &#x2B07; &#x2B07;</p>
+    &#x2B07; &#x2B07; For a step-by-step walkthrough of this project, check out my blog</p>
 <p>
     <a href="https://medium.com/@KaylenAnderson/weather-dashboard-aws-72e1d791fc53">
         <strong>Medium Blog</strong>
