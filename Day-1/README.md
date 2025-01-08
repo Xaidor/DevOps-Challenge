@@ -3,3 +3,7 @@ The application is designed to fetch real-time weather data from the OpenWeather
 
 &#x2B07 **Repo to Weather Dashboard Project** &#x2B07
 [Day 1 Weather Project](https://github.com/Xaidor/Weather-Dashboard)
+
+**More**
+For a step by step walkthough of this project check out my blog &#x2B07 &#x2B07
+[medium blog](https://medium.com/@KaylenAnderson/weather-dashboard-aws-72e1d791fc53)
