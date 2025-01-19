@@ -6,7 +6,7 @@
 | Day  | Challenge Title            | Description                                   | Status      |
 |------|----------------------------|-----------------------------------------------|-------------|
 |1 | 🌦️ Weather Dashboard Demo | Fetch weather data and store it in an S3 bucket. | ✅ Completed |
-|2 | 🏀 Event Driven Notifications | real-time updates and alerts for sporting events. | ✅ Completed |
-|3 |  TBD                     | TBD                                           | 🚧 In Progress    |
+|2 |  Event Driven Notifications | real-time updates and alerts for sporting events. | ✅ Completed |
+|3 | 🏀 NBADataLake                    | TBD                                           | 🚧 In Progress    |
 |4 |  TBD                    | TBD                                           | 🔜 Pending    |
 |5 |  TBD                     | TBD                                           | 🔜 Pending    |
